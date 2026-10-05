@@ -1,0 +1,17 @@
+date,product,category,price,quantity,city
+2026-01-05,Laptop,Electronics,32000,2,Kyiv
+2026-01-07,Mouse,Electronics,800,5,Lviv
+2026-01-10,Keyboard,Electronics,1500,3,Kyiv
+2026-01-12,Monitor,Electronics,9000,2,Kharkiv
+2026-01-15,Phone,Electronics,28000,1,Odessa
+2026-01-18,Headphones,Electronics,2500,4,Kyiv
+2026-01-20,Laptop,Electronics,32000,1,Lviv
+2026-01-23,Mouse,Electronics,800,8,Kharkiv
+2026-02-02,Keyboard,Electronics,1500,6,Kyiv
+2026-02-05,Monitor,Electronics,9000,3,Lviv
+2026-02-08,Phone,Electronics,28000,2,Kyiv
+2026-02-11,Headphones,Electronics,2500,5,Odessa
+2026-02-15,Laptop,Electronics,32000,2,Kharkiv
+2026-02-18,Mouse,Electronics,800,10,Kyiv
+2026-02-21,Keyboard,Electronics,1500,4,Lviv
+2026-02-25,Monitor,Electronics,9000,1,Odessa
